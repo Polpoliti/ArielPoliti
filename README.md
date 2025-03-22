@@ -6,7 +6,7 @@
 
 ---
 
-![Data Science Quote](./data_science_quote_horizontal.png)
+![Data Science Quote](./data_science_quote_horizontal_updated.png)
 
 ---
 
