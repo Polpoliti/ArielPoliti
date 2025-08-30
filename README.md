@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ariel Politi
 
-🎓 I'm a third-year Data Science student with a passion for turning raw data into impactful insights.  
-💼 Currently seeking my first opportunity in the data industry — internships, entry-level positions, or anything where I can learn, grow, and contribute.  
-🧠 I love solving real-world problems with code, curiosity, and a touch of creativity.
+🎓 I'm a third year Data Science student with a passion for turning raw data into impactful insights.  
+💼 Currently seeking my first opportunity in the data industry - internships, entry level positions, or anything where I can learn, grow, and contribute.  
+🧠 I love solving real world problems with code, curiosity, and a touch of creativity.
 
 ---
 
@@ -24,5 +24,5 @@
 ---
 
 ### 📬 Let's Connect:
-📎 You can find me on [LinkedIn](https://www.linkedin.com/in/arielpoliti) — let’s talk data!  
+📎 You can find me on [LinkedIn](https://www.linkedin.com/in/arielpoliti) - let’s talk data!  
 
